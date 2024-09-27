@@ -1,6 +1,5 @@
-// Sketch - Nomenclatura utilizada para representar o programa no p5
-
 class Bola {
+    // Sketch - Nomenclatura utilizada para representar o programa no p5
     constructor(jogo) {
 
         this.posicaoX = width / 2;
